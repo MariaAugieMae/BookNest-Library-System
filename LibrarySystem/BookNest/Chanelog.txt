@@ -1,0 +1,43 @@
+Changelog / Activity Log
+
+April 27, 2026
+Wagas, Ma. Augie Mae - Began the UX design of the system and planned out the overall structure of the interface
+Created the basic layout idea and how each form will connect
+Assigned roles and tasks to group members to organize the work
+Flores, Chyle Yvonne - N/A
+Hiligan, Jaymarie - Helped explain the layout and design ideas of the system
+Gave suggestions about UI appearance and structure
+
+ 
+April 29, 2026
+Wagas, Ma. Augie Mae (UI Manager, project manager) - Improved UI design based on group feedback 
+ Created initial structure for forms and system files
+Flores, Chyle Yvonne (Project Manager, Lead Programer) - Studied system requirements and project flowReviewed UI design and checked if it matches the plan 
+ Helped understand how the system should work 
+ Participated in discussion about system flow
+Hiligan, Jaymarie (Lead Programmer, UI manager) - Helped explain layout structure for each section 
+ Reviewed UI improvements and gave feedback 
+ Assisted in checking design consistency
+
+May 1, 2026 
+Wagas, Ma. Augie Mae - Editing initial working forms in Visual Studio
+Connected simple navigation between forms
+Managed project progress and guided group tasks
+Flores, Chyle Yvonne - Tested UI design and checked button functions
+Reviewed navigation flow between forms
+Helped check if design matches the system plan
+Hiligan, Jaymarie - Reviewed interface layout and usability
+Suggested improvements for better design flow
+Checked consistency of UI elements
+
+May 3, 2026 
+Wagas, Ma. Augie Mae - The updated UI design and navigational checks helped see and test the interface design improvements.
+ Checked for UI errors and missing elements
+Flores, Chyle Yvonne -  Helped in testing the system 
+Hiligan, Jaymarie -  Assisted in reviewing the program 
+
+May 6 2026
+Wagas, Ma. Augie Mae -  Finalized the UI design and made some improvements
+Flores, Chyle Yvonne - Prepared navigational error checks and design feedback from tests.
+Checked all forms and system connection
+Hiligan, Jaymarie - Checked if everthing works fine help ensured if the interface has all features and is usable
